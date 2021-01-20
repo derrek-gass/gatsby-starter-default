@@ -17,7 +17,7 @@
     "gatsby-source-filesystem": "^2.1.46",
     "gatsby-transformer-sharp": "^2.3.13",
     "gatsby-transformer-yaml": "^2.1.7",
-    "gsap": "^2.0.2",
+    "gsap": "^3.6.0",
     "loadjs": "^3.5.5",
     "lodash": "^4.17.11",
     "mousetrap": "^1.6.2",
